@@ -63,8 +63,8 @@ html, body{
   color: var(--pink-light);  background-color: var(--gray);
   display: flex; 
   flex-direction: column; 
-justify-content: center;
-align-items: center;  
+  justify-content: center;
+  align-items: center;  
 }
 #welcome-section h1, h2{
   text-align: center; 
@@ -155,8 +155,8 @@ align-items: center;
 .contact-wrapper{
   display: flex; 
   flex-direction: column; 
-justify-content: center;
-align-items: center;  
+  justify-content: center;
+  align-items: center;  
   height: 90%;
 }
 .footer hr{
